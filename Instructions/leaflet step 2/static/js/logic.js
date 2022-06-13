@@ -72,7 +72,7 @@ function createMap(earthquakes) {
             tileSize: 512,
             maxZoom: 18,
             zoomOffset: -1,
-            id: "mapbox/light-v10",
+            id: "mapbox/light-v11",
             accessToken: API_KEY
         })
 
